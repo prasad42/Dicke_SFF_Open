@@ -7,6 +7,8 @@ SFF/
 sff_open/
 temp/
 evals_par_Lop/
+evals_goe/
+evals_cnrgd/
 
 # Ignore Python cache files
 __pycache__/
